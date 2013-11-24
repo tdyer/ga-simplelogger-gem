@@ -13,3 +13,12 @@
     
   * lib
     Directory where ruby code lives.
+
+- Make a, very, simple Rack application. 
+  This is the most basic kind of Rack app that will print out messages
+  sent to it.
+
+  - Make a directory that will contain an 'executable' that you can run on the command line.
+    mkdir bin
+    cd bin
+
