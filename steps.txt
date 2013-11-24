@@ -1,0 +1,15 @@
+- Create a gem with bundler
+  bundle gem ga-simplelogger-gem
+
+  This will create the skeleton of the gem spec. 
+
+  * License - MIT License
+  * README.md
+  * Rakefile
+  * gemspec
+    http://guides.rubygems.org/make-your-own-gem/
+    http://guides.rubygems.org/
+    http://guides.rubygems.org/specification-reference/
+    
+  * lib
+    Directory where ruby code lives.
